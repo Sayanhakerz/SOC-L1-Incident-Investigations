@@ -1,0 +1,6 @@
+Hostname: LINUX-SERVER-01
+Environment: Synthetic SOC Training Lab
+SSH Service: OpenSSH
+Authentication Source: /var/log/auth.log
+Primary Investigated Source IP: 10.0.0.45
+Benign Comparison Source IP: 10.0.0.30

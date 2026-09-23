@@ -1,0 +1,13 @@
+2026-09-23T11:20:01Z sshd[2101]: Failed password for invalid user admin from 10.0.0.45 port 51422 ssh2
+2026-09-23T11:20:04Z sshd[2102]: Failed password for invalid user admin from 10.0.0.45 port 51424 ssh2
+2026-09-23T11:20:07Z sshd[2103]: Failed password for invalid user admin from 10.0.0.45 port 51426 ssh2
+2026-09-23T11:20:10Z sshd[2104]: Failed password for invalid user admin from 10.0.0.45 port 51428 ssh2
+2026-09-23T11:20:13Z sshd[2105]: Failed password for invalid user admin from 10.0.0.45 port 51430 ssh2
+2026-09-23T11:20:16Z sshd[2106]: Failed password for invalid user admin from 10.0.0.45 port 51432 ssh2
+2026-09-23T11:20:19Z sshd[2107]: Failed password for invalid user admin from 10.0.0.45 port 51434 ssh2
+2026-09-23T11:20:25Z sshd[2108]: Accepted password for admin from 10.0.0.45 port 51436 ssh2
+2026-09-23T11:20:26Z sshd[2108]: pam_unix(sshd:session): session opened for user admin
+2026-09-23T11:25:02Z sshd[2108]: pam_unix(sshd:session): session closed for user admin
+2026-09-23T12:10:15Z sshd[2201]: Accepted publickey for analyst from 10.0.0.30 port 52001 ssh2
+2026-09-23T12:10:16Z sshd[2201]: pam_unix(sshd:session): session opened for user analyst
+2026-09-23T12:40:16Z sshd[2201]: pam_unix(sshd:session): session closed for user analyst
