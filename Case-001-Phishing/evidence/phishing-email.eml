@@ -1,0 +1,34 @@
+From: "Microsoft Support" <support@micros0ft-security.example>
+To: employee01@company.local
+Reply-To: verify-account@secure-m365-login.example
+Return-Path: <bounce@micros0ft-security.example>
+Subject: URGENT: Your Microsoft 365 account will be suspended
+Date: Wed, 23 Sep 2026 09:14:02 +0000
+Message-ID: <20260923091402.12345@micros0ft-security.example>
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Received: from mail.micros0ft-security.example (198.51.100.25)
+        by mail.company.local with ESMTP;
+        Wed, 23 Sep 2026 09:14:02 +0000
+Received-SPF: fail (company.local: domain of
+        support@micros0ft-security.example does not designate
+        198.51.100.25 as permitted sender)
+Authentication-Results: mail.company.local;
+        spf=fail;
+        dkim=fail;
+        dmarc=fail
+
+<html>
+<body>
+<p>Dear Employee,</p>
+<p>Your Microsoft 365 account requires immediate verification.</p>
+<p>Your account will be suspended within 24 hours unless you
+complete verification.</p>
+<p>
+<a href="https://micros0ft-security.example/login">
+Verify your Microsoft 365 account
+</a>
+</p>
+<p>Microsoft Security Team</p>
+</body>
+</html>
